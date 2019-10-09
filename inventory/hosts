@@ -1,0 +1,5 @@
+[labrouters]
+192.168.60.148 
+
+[all:vars]
+ansible_network_os=ios
